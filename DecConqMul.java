@@ -1,3 +1,4 @@
+import java.util.Arrays;
 
 public class DecConqMul{
     int optot;
@@ -28,6 +29,10 @@ public class DecConqMul{
 
     public int mulConstant(int a, int b){
         return 2;
+    }
+
+    public int[] cross(){
+
     }
 
  
